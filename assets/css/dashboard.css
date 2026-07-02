@@ -1,0 +1,12 @@
+.page h1 {
+    margin-top: 0;
+    color: #b92d3f;
+}
+
+.page p {
+    color: #5f5f5f;
+}
+
+.page .cards {
+    margin-top: 24px;
+}
